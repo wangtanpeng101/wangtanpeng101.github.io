@@ -17,4 +17,4 @@ Education
 
 Publications
 ======
-
+* Zhang, R., Liu, J., Zhang, Z., Chen, Z., **Wang, T.**, Shen, Y. et al. Dual mitotic bookmarking by GAF and H3K27ac orchestrates differential propagation of cell fate memory in neural development. *Nat. Commun.* **16**, 7930 (2025). [DOI:10.1038/s41467-025-62974-6](https://doi.org/10.1038/s41467-025-62974-6)
